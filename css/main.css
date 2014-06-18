@@ -1,0 +1,11 @@
+* {
+    box-sizing: border-box;
+}
+
+.pure-g {
+    paddding: 0 1em;
+}
+
+h2 {
+    font-family: 'Amatic SC', cursive;
+}

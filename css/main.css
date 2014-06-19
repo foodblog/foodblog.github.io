@@ -18,6 +18,11 @@ body {
     padding-bottom: 0.6em;
 }
 
+.logo
+{
+    background: no-repeat url(img/logo.png);
+    background-position: center 0px;
+}
 h1 {
     font-family: 'Quicksand', sans-serif;
     text-align: center;

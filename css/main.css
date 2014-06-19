@@ -3,13 +3,19 @@
 }
 
 body {
-    color: #333;
+    color: #303030;
 }
 
 .pure-g {
     padding: 0 1em;
-    max-width: 70em;
+    max-width: 68em;
     margin: 0 auto;
+}
+
+.excerpt {
+    min-width: 100%;
+    border-bottom: 1px solid #eee;
+    padding-bottom: 0.6em;
 }
 
 h1 {

@@ -1,0 +1,38 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    color: #303030;
+}
+
+.pure-g {
+    padding: 0 1em;
+    max-width: 68em;
+    margin: 0 auto;
+}
+
+.excerpt {
+    min-width: 100%;
+    border-bottom: 1px solid #eee;
+    padding-bottom: 0.6em;
+}
+
+h1 {
+    font-family: 'Quicksand', sans-serif;
+    text-align: center;
+    margin-top: 0.3em;
+    font-size: 5em;
+    line-height: 0.8em;
+    font-weight: 300;
+    margin-right: auto;
+    margin-left: auto;
+    padding-bottom: 0.4em;
+    border-bottom: 2px solid #eee;
+    max-width: 6em;
+}
+
+h2 {
+    font-size: 2em;
+    font-family: 'Amatic SC', cursive;
+}

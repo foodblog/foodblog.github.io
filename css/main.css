@@ -22,6 +22,7 @@ body {
 {
     background: no-repeat center url(/img/logo.png);
 }
+
 h1 {
     font-family: 'Quicksand', sans-serif;
     text-align: center;
@@ -39,4 +40,9 @@ h1 {
 h2 {
     font-size: 2em;
     font-family: 'Amatic SC', cursive;
+}
+
+h2 a {
+    color: inherit;
+    text-decoration: none;
 }

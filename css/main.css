@@ -20,8 +20,7 @@ body {
 
 .logo
 {
-    background: no-repeat url(img/logo.png);
-    background-position: center 0px;
+    background: no-repeat center url(/img/logo.png);
 }
 h1 {
     font-family: 'Quicksand', sans-serif;

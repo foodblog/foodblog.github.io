@@ -14,13 +14,36 @@ body {
 
 .excerpt {
     min-width: 100%;
-    border-bottom: 1px solid #eee;
     padding-bottom: 0.6em;
 }
 
 .logo
 {
-    background: no-repeat center url(/img/logo.png);
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    position: relative;
+    font-family: 'Quicksand', sans-serif;
+    font-size: 2em;
+    line-height: 0.8em;
+    font-weight: 300;
+}
+.logo img
+{
+    position: relative;
+    top: 20px;
+    display: block;
+    margin: auto;
+    padding-bottom: 20px;
+
+}
+
+.seperator img
+{
+    display: block;
+    margin: auto;
+    padding-top: 5px;
+    padding-bottom: 5px;
 }
 
 h1 {

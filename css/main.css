@@ -6,10 +6,10 @@ body {
     color: #303030;
 }
 
-.logo
+.logo-container
 {
-    margin-left: auto;
-    margin-right: auto;
+    margin: 0 auto;
+    padding: 1.5rem 0 2.5rem 0;
     text-align: center;
     position: relative;
     font-family: 'Quicksand', sans-serif;
@@ -17,14 +17,11 @@ body {
     line-height: 0.8em;
     font-weight: 300;
 }
-.logo img
-{
-    position: relative;
-    top: 20px;
-    display: block;
-    margin: auto;
-    padding-bottom: 20px;
 
+.logo-container img
+{
+    display: block;
+    margin: 0 auto;
 }
 
 h1 {
@@ -51,29 +48,12 @@ h2 a {
     text-decoration: none;
 }
 
-img.cover
-{
-    width: 250px;
-    height: 250px;
+.cover img {
+    width: 100%;
+    max-width: 100%;
     overflow: hidden;
 }
 
-.clearfix:before,
-.clearfix:after {
-    content: " "; 
-    display: table;
-}
-
-.clearfix:after {
-    clear: both;
-}
-
-.1-box
-{
-    padding: 50px;
-}
-.cover-container
-{
-    text-align: center;
-    vertical-align: middle;
+.pure-g > div {
+    margin: 0.5rem;
 }

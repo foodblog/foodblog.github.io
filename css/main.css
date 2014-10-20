@@ -54,6 +54,6 @@ h2 a {
     overflow: hidden;
 }
 
-.pure-g > div {
-    margin: 0.5rem;
+.cover {
+    padding: 0.5rem;
 }

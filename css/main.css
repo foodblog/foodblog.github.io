@@ -67,3 +67,13 @@ img.cover
 .clearfix:after {
     clear: both;
 }
+
+.1-box
+{
+    padding: 50px;
+}
+.cover-container
+{
+    text-align: center;
+    vertical-align: middle;
+}

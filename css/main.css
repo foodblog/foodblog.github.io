@@ -4,6 +4,7 @@
 
 body {
     color: #303030;
+    
 }
 
 .logo-container
@@ -52,8 +53,22 @@ h2 a {
     width: 100%;
     max-width: 100%;
     overflow: hidden;
+    transform-style: preserve-3d;
+    transition: transform 0.4s;
+    
+}
+
+.cover img:hover {
+
+    transform: scale(1.05);
 }
 
 .cover {
     padding: 0.5rem;
+    perspective: 800px;
+    
 }
+
+
+
+

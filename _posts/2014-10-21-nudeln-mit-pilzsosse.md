@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Nudeln mit Pilzsosse
-image: /img/posts/pilznudeln.jpg
+image: /img/posts/pilznudelnbanner.jpg
+thumbnail: /img/posts/pilznudeln.jpg
 ---
 
 ## Nudeln mit Pilzsosse

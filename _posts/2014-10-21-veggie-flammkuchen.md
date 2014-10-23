@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Vegetarischer Flammkuchen
-image: /img/posts/flammkuchen.jpg
+image: /img/posts/flammkuchenbanner.jpg
+thumbnail: /img/posts/flammkuchen.jpg
 ---
 
 ## Vegetarischer Flammkuchen

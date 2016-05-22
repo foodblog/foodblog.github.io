@@ -5,8 +5,6 @@ image: /img/posts/pilznudelnbanner.jpg
 thumbnail: /img/posts/pilznudeln.jpg
 ---
 
-## Nudeln mit Pilzsoße
-
 ### Zutaten:
 
 * Fuer die Nudeln:  
